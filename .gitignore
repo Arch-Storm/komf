@@ -20,7 +20,8 @@
 
 ### NetBeans
 nbproject/private/
-build/
+build/*
+!build/libs/
 nbbuild/
 dist/
 nbdist/
